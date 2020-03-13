@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crup-react-app/static/css/main.754c148b.chunk.css",
+    "main.js": "/crup-react-app/static/js/main.860103f0.chunk.js",
+    "main.js.map": "/crup-react-app/static/js/main.860103f0.chunk.js.map",
+    "runtime-main.js": "/crup-react-app/static/js/runtime-main.d3dfc237.js",
+    "runtime-main.js.map": "/crup-react-app/static/js/runtime-main.d3dfc237.js.map",
+    "static/js/2.7dcacc75.chunk.js": "/crup-react-app/static/js/2.7dcacc75.chunk.js",
+    "static/js/2.7dcacc75.chunk.js.map": "/crup-react-app/static/js/2.7dcacc75.chunk.js.map",
+    "index.html": "/crup-react-app/index.html",
+    "precache-manifest.5bac1d8a9358c38c56fe57e589c36a35.js": "/crup-react-app/precache-manifest.5bac1d8a9358c38c56fe57e589c36a35.js",
+    "service-worker.js": "/crup-react-app/service-worker.js",
+    "static/css/main.754c148b.chunk.css.map": "/crup-react-app/static/css/main.754c148b.chunk.css.map",
+    "static/js/2.7dcacc75.chunk.js.LICENSE.txt": "/crup-react-app/static/js/2.7dcacc75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3dfc237.js",
+    "static/js/2.7dcacc75.chunk.js",
+    "static/css/main.754c148b.chunk.css",
+    "static/js/main.860103f0.chunk.js"
+  ]
+}
